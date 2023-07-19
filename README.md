@@ -12,10 +12,10 @@ This version of the Adventure game is implemented using [Inform6 compiler](http:
 
 The following subdirectories are included in the package:
 
-AdventR.inf --- Russian translation of the Adventure game
-AdventR.z5  --- Binary version for Z-machine interpreter
-*.h         --- Files from [Inform6 Standard Library](https://gitlab.com/DavidGriffith/inform6lib)
-Makefile    --- Script for gmake to compile sources into binary
+  * AdventR.inf --- Russian translation of the Adventure game
+  * AdventR.z5  --- Binary version for Z-machine interpreter
+  * *.h         --- Files from [Inform6 Standard Library](https://gitlab.com/DavidGriffith/inform6lib)
+  * Makefile    --- Script for gmake to compile sources into binary
 
 ## How do I play the game?
 
