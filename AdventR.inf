@@ -1689,14 +1689,14 @@ Object In_Giant_Room "Огромная комната"
 	"Вы в комнате потрясающих размеров.
 	 Потолок здесь настолько высок, что свет лампы его не достигает.
 	 Пещерные проходы ведут отсюда на восток, север и юг.
-	 На западной стене нацарапано заклинание: ~Fee fie foe foo~ [sic].",
+	 На западной стене нацарапано заклинание: ~Fee fie foe fuu~ [sic].",
        s_to In_Narrow_Corridor,
        e_to At_Recent_Cave_In,
        n_to In_Immense_N_S_Passage;
 
 Object -> "надпис/ь на стене"
   with name 'нацарапанн' 'надпис',
-       description "Написано: ~Fee fie foe foo [sic].~",
+       description "Написано: ~Fee fie foe fuu [sic].~",
   has  scenery female;
 
 Treasure -> golden_eggs "полн/ое гнезд/о золотых яиц"
@@ -3638,7 +3638,7 @@ Verb 'ржанка'   *				-> Plover;
 Verb 'fee'      *				-> Fee;
 Verb 'fie'      *				-> Fie;
 Verb 'foe'      *				-> Foe;
-Verb 'foo'      *				-> Foo;
+Verb 'fuu'      *				-> Foo;
 
 ! (морально устаревшая магия)
 Verb 'сезам!'
