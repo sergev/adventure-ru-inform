@@ -3634,7 +3634,7 @@ Object "взорвать" VerbDepot
 ! (действующая магия)
 Verb 'plugh'    *				-> Plugh;
 Verb 'xyzzy'    *				-> Xyzzy;
-Verb 'plover'   *				-> Plover;
+Verb 'ржанка'   *				-> Plover;
 Verb 'fee'      *				-> Fee;
 Verb 'fie'      *				-> Fie;
 Verb 'foe'      *				-> Foe;
